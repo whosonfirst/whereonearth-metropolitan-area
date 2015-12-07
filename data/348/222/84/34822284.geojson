@@ -1,0 +1,60 @@
+{
+  "geometry": {
+    "type": "Polygon", 
+    "coordinates": [
+      [
+        [
+          83.15299197788124, 
+          54.78766388612016
+        ], 
+        [
+          83.15299197788124, 
+          54.78766388612016
+        ], 
+        [
+          83.153302036475, 
+          54.78125600851597
+        ], 
+        [
+          83.13655887241242, 
+          54.78223786072951
+        ], 
+        [
+          83.14131310418327, 
+          54.798981024792084
+        ], 
+        [
+          83.15299197788124, 
+          54.78766388612016
+        ]
+      ]
+    ]
+  }, 
+  "type": "Feature", 
+  "properties": {
+    "ne:fid": 4477, 
+    "ne:hasPlace": 15, 
+    "hierarchy": [
+      "woe:metropolitan-area=34822284", 
+      "woe:region=2346914", 
+      "woe:country=23424936"
+    ], 
+    "artisanal:foundry": "http://www.missionintegers.com/", 
+    "ne:FeatureCla": "Urban area", 
+    "name": 34822284, 
+    "placetype": "metropolitan-area", 
+    "iso": "RU", 
+    "longitude": 83.1448211637892, 
+    "artisanal:id": 34822284, 
+    "latitude": 54.787853680843945, 
+    "woe:id": 34822284, 
+    "ne:ScaleRank": 7
+  }, 
+  "bbox": [
+    83.13655887241242, 
+    54.78125600851597, 
+    83.153302036475, 
+    54.798981024792084
+  ], 
+  "id": 34822284
+}

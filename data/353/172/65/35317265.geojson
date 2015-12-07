@@ -1,0 +1,60 @@
+{
+  "geometry": {
+    "type": "Polygon", 
+    "coordinates": [
+      [
+        [
+          82.33112999871128, 
+          23.174735622647347
+        ], 
+        [
+          82.33112999871128, 
+          23.174735622647347
+        ], 
+        [
+          82.3258590026175, 
+          23.19455353443128
+        ], 
+        [
+          82.36368615105516, 
+          23.200186265551096
+        ], 
+        [
+          82.35273074740928, 
+          23.16763011320721
+        ], 
+        [
+          82.33112999871128, 
+          23.174735622647347
+        ]
+      ]
+    ]
+  }, 
+  "type": "Feature", 
+  "properties": {
+    "ne:fid": 9067, 
+    "ne:hasPlace": -1, 
+    "hierarchy": [
+      "woe:metropolitan-area=35317265", 
+      "woe:region=20070464", 
+      "woe:country=23424848"
+    ], 
+    "artisanal:foundry": "http://www.brooklynintegers.com/", 
+    "ne:FeatureCla": "Urban area", 
+    "name": 35317265, 
+    "placetype": "metropolitan-area", 
+    "iso": "IN", 
+    "longitude": 82.34470865688148, 
+    "artisanal:id": 35317265, 
+    "latitude": 23.18533291247035, 
+    "woe:id": 35317265, 
+    "ne:ScaleRank": 7
+  }, 
+  "bbox": [
+    82.3258590026175, 
+    23.16763011320721, 
+    82.36368615105516, 
+    23.200186265551096
+  ], 
+  "id": 35317265
+}

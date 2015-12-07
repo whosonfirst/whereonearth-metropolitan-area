@@ -1,0 +1,56 @@
+{
+  "geometry": {
+    "type": "Polygon", 
+    "coordinates": [
+      [
+        [
+          -77.02446611195224, 
+          38.740943101550755
+        ], 
+        [
+          -77.02446611195224, 
+          38.740943101550755
+        ], 
+        [
+          -77.0246211412491, 
+          38.7407363958216
+        ], 
+        [
+          -77.02467281768139, 
+          38.740813910470024
+        ], 
+        [
+          -77.02446611195224, 
+          38.740943101550755
+        ]
+      ]
+    ]
+  }, 
+  "type": "Feature", 
+  "properties": {
+    "ne:fid": 2909, 
+    "ne:hasPlace": 15, 
+    "hierarchy": [
+      "woe:metropolitan-area=34821224", 
+      "woe:region=2347605", 
+      "woe:country=23424977"
+    ], 
+    "artisanal:foundry": "http://www.missionintegers.com/", 
+    "ne:FeatureCla": "Urban area", 
+    "name": 34821224, 
+    "placetype": "metropolitan-area", 
+    "iso": "US", 
+    "longitude": -77.02458669029424, 
+    "artisanal:id": 34821224, 
+    "latitude": 38.74083113594746, 
+    "woe:id": 34821224, 
+    "ne:ScaleRank": 7
+  }, 
+  "bbox": [
+    -77.02467281768139, 
+    38.7407363958216, 
+    -77.02446611195224, 
+    38.740943101550755
+  ], 
+  "id": 34821224
+}

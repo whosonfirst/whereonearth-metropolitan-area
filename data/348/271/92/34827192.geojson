@@ -1,0 +1,56 @@
+{
+  "geometry": {
+    "type": "Polygon", 
+    "coordinates": [
+      [
+        [
+          139.8418314963372, 
+          34.9863402369524
+        ], 
+        [
+          139.8418314963372, 
+          34.9863402369524
+        ], 
+        [
+          139.84400190649342, 
+          34.98639191338469
+        ], 
+        [
+          139.8431750835768, 
+          34.98442820895761
+        ], 
+        [
+          139.8418314963372, 
+          34.9863402369524
+        ]
+      ]
+    ]
+  }, 
+  "type": "Feature", 
+  "properties": {
+    "ne:fid": 11976, 
+    "ne:hasPlace": 15, 
+    "hierarchy": [
+      "woe:metropolitan-area=34827192", 
+      "woe:region=2345854", 
+      "woe:country=23424856"
+    ], 
+    "artisanal:foundry": "http://www.missionintegers.com/", 
+    "ne:FeatureCla": "Urban area", 
+    "name": 34827192, 
+    "placetype": "metropolitan-area", 
+    "iso": "JP", 
+    "longitude": 139.84300282880247, 
+    "artisanal:id": 34827192, 
+    "latitude": 34.9857201197649, 
+    "woe:id": 34827192, 
+    "ne:ScaleRank": 7
+  }, 
+  "bbox": [
+    139.8418314963372, 
+    34.98442820895761, 
+    139.84400190649342, 
+    34.98639191338469
+  ], 
+  "id": 34827192
+}
